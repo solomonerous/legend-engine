@@ -140,21 +140,21 @@
         <!-- Databases -->
         <databricks.version>2.6.27</databricks.version>
         <hikaricp.version>4.0.3</hikaricp.version>
-        <h2.version>2.1.214</h2.version>
+        <h2.version>2.2.220</h2.version>
         <mariadb.version>3.0.6</mariadb.version>
         <postgres.version>9.4.1208.jre7</postgres.version>
-        <redshiftJDBC.version>2.0.0.3</redshiftJDBC.version>
-        <snowflake.version>3.13.5</snowflake.version>
+        <redshiftJDBC.version>2.1.0.28</redshiftJDBC.version>
+        <snowflake.version>3.13.29</snowflake.version>
         <duckdb.version>1.0.0</duckdb.version>
 
         <!-- Dependency versions -->
         <amazon.awssdk.version>2.17.129</amazon.awssdk.version>
         <antlr.version>4.8-1</antlr.version>
         <arrow.version>13.0.0</arrow.version>
-        <bouncycastle.version>1.67</bouncycastle.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
         <byte-buddy.version>1.11.20</byte-buddy.version>
         <commons-codec.version>1.15</commons-codec.version>
-        <commons-compress.version>1.21</commons-compress.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <commons-csv.version>1.5</commons-csv.version>
         <commons-io.version>2.7</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
@@ -166,16 +166,16 @@
         <dropwizard.version>1.3.29</dropwizard.version>
         <eclipsecollections.version>10.2.0</eclipsecollections.version>
         <freemarker.version>2.3.30</freemarker.version>
-        <github.classgraph.version>4.8.25</github.classgraph.version>
-        <guava.version>30.0-jre</guava.version>
+        <github.classgraph.version>4.8.112</github.classgraph.version>
+        <guava.version>32.0.0-jre</guava.version>
         <hamcrest.core.version>1.3</hamcrest.core.version>
         <hibernate-validator.version>5.4.3.Final</hibernate-validator.version>
         <hk2.version>2.5.0-b32</hk2.version>
         <httpasyncclient.version>4.1.5</httpasyncclient.version>
         <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.13</httpcore.version>
-        <io.netty.version>4.1.96.Final</io.netty.version>
-        <jackson.databind.version>2.10.5.1</jackson.databind.version>
+        <io.netty.version>4.1.108.Final</io.netty.version>
+        <jackson.databind.version>2.12.7.1</jackson.databind.version>
         <jackson.version>2.10.5</jackson.version>
         <janino.version>3.1.0</janino.version>
         <janino.version>3.1.0</janino.version>
@@ -183,15 +183,15 @@
         <javax.servlet.version>3.1.0</javax.servlet.version>
         <jaxrs.version>2.0.1</jaxrs.version>
         <jersey.version>2.25.1</jersey.version>
-        <jetty.version>9.4.44.v20210927</jetty.version>
+        <jetty.version>9.4.52.v20230823</jetty.version>
         <joda.time.version>2.10.6</joda.time.version>
-        <json-smart.version>2.4.7</json-smart.version>
+        <json-smart.version>2.4.9</json-smart.version>
         <jsonunit.version>2.17.0</jsonunit.version>
         <junit-jupiter.version>5.4.0</junit-jupiter.version>
         <junit.version>4.13.1</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <logback-contrib.version>0.1.5</logback-contrib.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <minio.version>8.5.5</minio.version>
         <mockito-core.version>4.4.0</mockito-core.version>
         <mongodb.version>3.12.8</mongodb.version>
@@ -204,11 +204,11 @@
         <pac4j.version>3.7.0</pac4j.version>
         <prometheus.version>0.8.1</prometheus.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <snakeyaml.version>1.33</snakeyaml.version>
+        <snakeyaml.version>2.0</snakeyaml.version>
         <swagger.annotation.version>1.5.20</swagger.annotation.version>
         <test.mongodb.version>1.38.0</test.mongodb.version>
         <testcontainers.version>1.18.3</testcontainers.version>
-        <wiremock.version>2.27.2</wiremock.version>
+        <wiremock.version>2.35.1</wiremock.version>
         <zipkin.reporter.version>2.15.0</zipkin.reporter.version>
 
         <!-- Plugin versions -->
@@ -224,7 +224,7 @@
         <maven.jar.plugin.version>3.1.2</maven.jar.plugin.version>
         <maven.javadoc.plugin.version>3.3.1</maven.javadoc.plugin.version>
         <maven.plugin.plugin.version>3.6.0</maven.plugin.plugin.version>
-        <maven.plugin.puppycrawl.version>8.25</maven.plugin.puppycrawl.version>
+        <maven.plugin.puppycrawl.version>8.29</maven.plugin.puppycrawl.version>
         <maven.resources.plugin.version>3.2.0</maven.resources.plugin.version>
         <maven.shade.plugin.version>3.4.1</maven.shade.plugin.version>
         <maven.source.plugin.version>3.2.0</maven.source.plugin.version>
